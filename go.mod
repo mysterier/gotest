@@ -1,4 +1,4 @@
-module github.com/gotest/v1
+module github.com/mysterier/gotest/v1
 
 go 1.14
 
